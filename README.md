@@ -15,13 +15,13 @@ Backbone.js is one of the oldest MV libraries and is widely used amongst larger 
 
 ### Downloads & Dependencies
 Download these dependencies
-> ![Underscore.js](http://underscorejs.org/)
+> [Underscore.js](http://underscorejs.org/)
 
-> ![Jquery](http://jquery.com/download/)
+> [Jquery](http://jquery.com/download/)
 
 For older Internet Explorer support
 
-> ![Json2.js](https://github.com/douglascrockford/JSON-js)
+> [Json2.js](https://github.com/douglascrockford/JSON-js)
 
 
 ### Helpful Resources
